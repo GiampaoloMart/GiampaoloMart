@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**GiampaoloMart/GiampaoloMart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 👋 Hi! I'm Giampaolo Martiniello, a bioinformatician passionate about decoding the secrets of life with data.
 
 🧬 I work with R, Python, Bash, Linux, MATLAB, and MySQL to study and analyze all facets of omics sciences. My journey involves exploring the intersection of technology and biology.
